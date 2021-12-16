@@ -14,3 +14,8 @@ isWeekday = false;
 acOn = !true;
 isWeekday = !false;
 var highTemperature = "max Air conditioning";
+
+
+
+
+
